@@ -1,0 +1,11 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "global": "^4.4.0",
+    "react-native": "^0.63.2"
+  }
+}

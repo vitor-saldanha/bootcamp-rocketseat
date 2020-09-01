@@ -1,0 +1,3 @@
+[submodule "modulo_2/modulo_2/node_challenge"]
+	path = modulo_2/modulo_2/node_challenge
+	url = git@github.com:vitor-saldanha/bootcamp-rocketseat.git
